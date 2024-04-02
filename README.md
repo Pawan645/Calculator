@@ -26,6 +26,7 @@ Usage:-
 - Function Buttons: Use the "AC" button to clear both the expression and the result. The "⌫" button deletes the last character from the expression. The "%" button calculates percentages. The "=" button computes the result of the expression.
 
 Contributing:-
+
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
 Acknowledgements:-
@@ -33,6 +34,7 @@ Acknowledgements:-
 - Special thanks to the mxparser library for parsing and evaluating mathematical expressions.
   
 Contact:-
+
 If you have any questions or suggestions regarding the Calculator App, feel free to contact me at pawanpatil83087@gmail.com.
 
 Thank you for checking out this project! Happy calculating! 🚀📱✨
