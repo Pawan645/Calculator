@@ -19,10 +19,13 @@ To get started with the Calculator App, follow these steps:
 
 Usage:-
 
-Numeric Input: Tap on the respective buttons (0-9) to input numeric values. Decimal numbers can be entered using the decimal point (.) button.
-Arithmetic Operations: Addition (+), subtraction (-), multiplication (×), and division (÷) are supported. Users can input multiple operations consecutively.
-Function Buttons: Use the "AC" button to clear both the expression and the result. The "⌫" button deletes the last character from the expression. The "%" button calculates percentages. The "=" button computes the result of the expression.
-Contributing
+- Numeric Input: Tap on the respective buttons (0-9) to input numeric values. Decimal numbers can be entered using the decimal point (.) button.
+
+- Arithmetic Operations: Addition (+), subtraction (-), multiplication (×), and division (÷) are supported. Users can input multiple operations consecutively.
+
+- Function Buttons: Use the "AC" button to clear both the expression and the result. The "⌫" button deletes the last character from the expression. The "%" button calculates percentages. The "=" button computes the result of the expression.
+
+Contributing:-
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
 Acknowledgements:-
