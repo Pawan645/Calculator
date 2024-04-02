@@ -11,6 +11,7 @@ Features:-
 - Error Handling: The app includes robust error handling mechanisms to deal with invalid expressions or calculations, ensuring a seamless user experience.
 
 Getting Started:-
+
 To get started with the Calculator App, follow these steps:
 - Clone this repository to your local machine.
 - Open the project in Android Studio.
